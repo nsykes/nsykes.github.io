@@ -12,8 +12,4 @@ email: nsykes@mit.edu
 twitter_username: nylesykes
 github_username:  nsykes
 
-# Google-analytics
-google-analytics:
-  id: ""
-
 exclude: ['package.json', 'src' , 'node_modules']
