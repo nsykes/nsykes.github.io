@@ -4938,7 +4938,7 @@ sup {
 
 .down {
 	position: absolute;
-	bottom: 25px;
+	bottom: 0px;
 	width: 100%;
 	margin: 0 auto;
 	display: block;
@@ -5099,7 +5099,7 @@ body {
 .footer {
 	background: #1a222c;
 	padding: 10px 0;
-	margin-top: 0px;
+	margin-top: 100px;
 	text-align: center;
 	color: #fff
 }
